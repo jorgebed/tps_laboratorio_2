@@ -1,0 +1,18 @@
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.exe.config
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.exe
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.pdb
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora (Windows Form).csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora_WF.Form1.resources
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora_WF.Properties.Resources.resources
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora (Windows Form).csproj.GenerateResource.Cache
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora WF.exe
+C:\Users\Iurko\Documents\Códigos\PROGRAMACION II\TP\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora WF.pdb
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.exe.config
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora WF.exe
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora WF.pdb
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.exe
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\bin\Debug\Calculadora WF.pdb
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora (Windows Form).csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora_WF.Form1.resources
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora_WF.Properties.Resources.resources
+C:\Users\Iurko\Desktop\Laboratorio II C#\BEDNARZ.JORGE\Calculadora WF\obj\Debug\Calculadora (Windows Form).csproj.GenerateResource.Cache
