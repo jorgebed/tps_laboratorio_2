@@ -11,12 +11,7 @@ using System.Windows.Forms;
 namespace Calculadora_WF
 {
     public partial class Form1 : Form
-    {
-        //private Numero numero1;
-        //private Numero numero2;
-       // private double resultado;
-        //private string operador;
-
+    {       
         public Form1()
         {
             InitializeComponent();
@@ -39,6 +34,11 @@ namespace Calculadora_WF
         {            
         }
 
+        /// <summary>
+        /// Realiza la operación matemática correspondiente y se muestra el resultado por pantalla
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             Calculadora c = new Calculadora();                        
@@ -46,7 +46,7 @@ namespace Calculadora_WF
             Numero numero2 = new Numero(this.txtNumero2.Text);
             string operador = c.validarOperador(this.cmbOperacion.Text);
             
-            //Se setean valores válidos por defecto en caso que el usuario ingrese valores no numerales
+            //Se setean valores válidos por defecto en la calculadora en caso que el usuario ingrese valores no numerales
             this.cmbOperacion.Text = operador;
             this.txtNumero1.Text = numero1.getNumero().ToString();
             this.txtNumero2.Text = numero2.getNumero().ToString();
@@ -56,7 +56,7 @@ namespace Calculadora_WF
         }
 
         /// <summary>
-        /// Borra todos los combos de la calculadora.
+        /// Borra todos los campos de la calculadora.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
