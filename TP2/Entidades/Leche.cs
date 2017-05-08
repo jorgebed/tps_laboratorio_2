@@ -10,13 +10,13 @@ namespace Entidades_2017
 {
     public class Leche : Producto
     {
+        private ETipo _tipo;
+        
         public enum ETipo 
         { 
             Entera, 
             Descremada 
-        }
-
-        ETipo _tipo;
+        }        
 
         /// <summary>
         /// Por defecto, TIPO será ENTERA

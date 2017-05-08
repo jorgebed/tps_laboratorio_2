@@ -11,8 +11,8 @@ namespace Entidades_2017
     /// </summary>
     public sealed class Changuito
     {
-        List<Producto> _productos;
-        int _espacioDisponible;
+        private List<Producto> _productos;
+        private int _espacioDisponible;
 
         public enum ETipo
         {
@@ -67,15 +67,15 @@ namespace Entidades_2017
                 switch (tipo)
                 {
                     case ETipo.Snacks:
-                        if(v is Snacks)
+                        if(v is Snacks)//Si es de tipo Snacks muestra en Snacks
                             sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Dulce:
-                        if(v is Dulce)
+                        if (v is Dulce)//Si es de tipo Dulce muestra en Dulce
                             sb.AppendLine(v.Mostrar());
                         break;
                     case ETipo.Leche:
-                        if (v is Leche)
+                        if (v is Leche)//Si es de tipo Leche muestra en Leche
                             sb.AppendLine(v.Mostrar());
                         break;
                     default:
@@ -83,7 +83,6 @@ namespace Entidades_2017
                         break;
                 }
             }
-
             return sb.ToString();
         }
         #endregion
@@ -99,7 +98,7 @@ namespace Entidades_2017
         {
             foreach (Producto v in c._productos)
             {
-                if (v == p || c._espacioDisponible == c._productos.Count)
+                if (v == p || c._espacioDisponible == c._productos.Count)//Controla que no se pase del espacioDisponible
                     return c;
             }
 

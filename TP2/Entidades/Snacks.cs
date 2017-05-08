@@ -12,6 +12,7 @@ namespace Entidades_2017
             : base(patente, marca, color)
         {
         }
+        
         /// <summary>
         /// Los snacks tienen 104 calorías
         /// </summary>
@@ -30,7 +31,7 @@ namespace Entidades_2017
             sb.AppendLine("SNACKS");
             sb.AppendLine(base.Mostrar());
             sb.AppendLine("CALORIAS : " + this.CantidadCalorias);
-            //sb.AppendLine("");
+            //sb.AppendLine("");//Se comenta porque así está en el ejecutable
             sb.AppendLine("---------------------");
 
             return sb.ToString();

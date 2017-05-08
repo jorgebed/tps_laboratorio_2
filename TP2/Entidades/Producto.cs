@@ -11,20 +11,20 @@ namespace Entidades_2017
     /// </summary>
     public abstract class Producto
     {
+        private EMarca _marca;
+        private string _codigoDeBarras;
+        private ConsoleColor _colorPrimarioEmpaque;
+
         public enum EMarca
         {
-            Serenisima, 
-            Campagnola, 
-            Arcor, 
-            Ilolay, 
-            Sancor, 
+            Serenisima,
+            Campagnola,
+            Arcor,
+            Ilolay,
+            Sancor,
             Pepsico
         }
-
-        EMarca _marca;
-        string _codigoDeBarras;
-        ConsoleColor _colorPrimarioEmpaque;
-
+        
         public Producto(string codigoDeBarras, EMarca marca, ConsoleColor color)
         {
             this._marca = marca;
@@ -38,7 +38,7 @@ namespace Entidades_2017
         public abstract short CantidadCalorias 
         { 
             get; 
-            //set; 
+            //set; es de solo lectura
         }
 
         /// <summary>
@@ -47,7 +47,7 @@ namespace Entidades_2017
         /// <returns></returns>
         public virtual string Mostrar()
         {
-            return (string)this;
+            return (string)this;//Usa el explicit
         }
 
         public static explicit operator string(Producto p)
