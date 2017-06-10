@@ -1,0 +1,14 @@
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\Excepciones.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\bin\Debug\Excepciones.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.csprojResolveAssemblyReference.cache
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb

@@ -1,0 +1,33 @@
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojResolveAssemblyReference.cache
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+F:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

@@ -1,0 +1,9 @@
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Iurko\Documents\2017\Bednarz.Jorge.TP3\Archivos\obj\Debug\Archivos.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\Archivos\bin\Debug\Archivos.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\Archivos\bin\Debug\Archivos.pdb
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\Archivos\obj\Debug\Archivos.dll
+E:\UTN\LABORATORIO II\2017\TP3\Bednarz.Jorge.TP3\Archivos\obj\Debug\Archivos.pdb
